@@ -7,6 +7,7 @@
 3. interface-learn\*,关于接口的使用，既可以用来限定参数，又可以用来实现，接口可以继承其他接口，接口可以多继承接口，接口也可以继承 class 类
 4. class-learn 关于类的使用技巧
 5. function-learn 关于函数的使用技巧
+6. generic-learn 范型的使用
 
 # 一些知识点
 
